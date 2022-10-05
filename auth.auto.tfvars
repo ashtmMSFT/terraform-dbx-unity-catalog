@@ -1,0 +1,1 @@
+databricks_resource_id = "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/<resource-group-name>/providers/Microsoft.Databricks/workspaces/<workspace-name>"
